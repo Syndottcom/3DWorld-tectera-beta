@@ -21,8 +21,8 @@ Commanded by remote expert Pilots in teams of four, CyberPersons are the ultimat
 ## Instruction
 
 ```
-git clone https://github.com/Kingbee0219/tecteraverse.git
-cd tecteraverse
+git clone https://github.com/Syndottcom/3DWorld-tectera-beta.git
+cd 3DWorld-tectera-beta
 npm install
 npm run start
 ```
